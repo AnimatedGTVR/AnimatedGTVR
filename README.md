@@ -19,71 +19,10 @@ I started out making games and VR projects, but these days I'm mostly focused on
 
 ---
 
-## 🚀 Current Projects
-
-### 🏔️ Abora OS
-
-A Linux distribution focused on making powerful tools accessible without turning every task into a weekend project.
-
-* NixOS based
-* Multiple desktop environments
-* Rollbacks and system management
-* Built for both new and experienced Linux users
-
-### 🔄 ANIX
-
-System management tooling for Abora OS.
-
-Designed to simplify switching, managing, and maintaining systems without memorizing dozens of commands.
-
-### 📦 TinyPM
-
-An experiment to make software installation feel the same everywhere.
-
-```bash
-tinypm install something
-```
-
-Simple command. Same idea. Any system.
-
-### ⚡ Praxis Linux
-
-A terminal-first Linux project focused on speed, simplicity, and user control.
-
-Built around the idea that powerful tools don't need unnecessary complexity.
-
-### 🏢 Xeno Tech
-
-The umbrella behind my projects, experiments, and ideas.
-
-Some survive.
-
-Some don't.
-
----
-
-## 🐧 Interests
-
-```yaml
-Operating Systems:  yes
-Linux:              yes
-Weather:            way too much
-Music:              yes
-Roller Coasters:    yes
-Random Ideas:       constantly
-Touching Grass:     occasionally
-```
-
----
-
 ## 📬 Contact
 
 * 📧 Email: [contact@xenoproject.tech](mailto:contact@xenoproject.tech)
-* 💬 Discord: animated_99245
-* 🐙 GitHub: @AnimatedGTVR
+* 💬 Discord: animated_99245 
+* * 💬 Discord Server: [https://discord.gg/VP6C9C2rmv](https://discord.gg/VP6C9C2rmv])
 
 Feel free to reach out about Linux, Abora OS, open source, or collaboration opportunities.
-
----
-
-> "Works on my machine."
