@@ -19,7 +19,6 @@ I started out making games and VR projects, but these days I'm mostly focused on
 
 ## 📬 Contact
 
-* 📧 Email: [contact@xenoproject.tech](mailto:contact@xenoproject.tech)
 * 💬 Discord: animated_99245 
 * * 💬 Discord Server: [https://discord.gg/VP6C9C2rmv](https://discord.gg/VP6C9C2rmv])
 
