@@ -21,5 +21,6 @@ I started out making games and VR projects, but these days I'm mostly focused on
 
 * 💬 Discord: animated_99245 
 * * 💬 Discord Server: [https://discord.gg/VP6C9C2rmv](https://discord.gg/VP6C9C2rmv])
+* 📧 Email: contact@xenoproject.tech 
 
 Feel free to reach out about Linux, Abora OS, open source, or collaboration opportunities.
