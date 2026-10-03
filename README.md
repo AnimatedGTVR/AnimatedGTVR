@@ -49,10 +49,6 @@ Horizon is the current release, with most of the work focused on reliability and
 - 23 desktop profiles
 - Stable and Edge channels
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AnimatedGTVR/Abora-OS/edge/assets/Big%20Blurry%20Editor(2).png" width="720" alt="Abora OS Everest desktop" />
-
 <sub>Abora OS v4 Everest</sub>
 
 </div>
